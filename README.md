@@ -1,4 +1,1 @@
-# tryLearning
-Trial repo
-
-I edit this
+hi there friend  
